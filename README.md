@@ -1,2 +1,1 @@
-# Udacity
-Course Projects
+# Udacity Course Projects
